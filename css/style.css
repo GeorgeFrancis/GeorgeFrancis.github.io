@@ -23,13 +23,13 @@
 		font-weight: 300;
 		font-size: 17pt;
 		line-height: 1.75em;
-		color: #888;
+		color: #3D3F3B;
 		-webkit-text-stroke: 0.1px;
 	}
 
 	h1,h2,h3,h4,h5,h6
 	{
-		color: #666;
+		color: #3D3F3B;
 		margin: 0 0 1em 0;
 		font-weight: 100;
 		line-height: 1.5em;
@@ -48,13 +48,13 @@
 		.dark h5,
 		.dark h6
 		{
-			color: #fff;
+			color: #434f6e;
 		}
 		
 	strong, b
 	{
 		font-weight: 400;
-		color: inherit;
+		color: 434f6e;
 	}
 	
 		.dark strong, .dark b
@@ -1247,7 +1247,7 @@
 							url('images/bgbl.svg') bottom left no-repeat,
 							url('images/bgbl.svg') bottom left no-repeat,
 							/*url('images/overlay.png'),*/
-							linear-gradient(45deg, #0e1016, #434f6e, #0e1016);
+							linear-gradient(45deg, #FFFFFF, #434f6e, #FFFFFF);
 			}
 
 			.main > .content.style2
@@ -1263,7 +1263,7 @@
 				background:	url('images/bgtr.svg') top right no-repeat,
 							url('images/bgbl.svg') bottom left no-repeat,
 							/*url('images/overlay.png'),*/
-							linear-gradient(45deg, #0e1016, #434f6e, #0e1016);
+							linear-gradient(45deg, #FFFFFF, #FFFFFF, #FFFFFF);
 			}
 
 			.main > .content.style4
