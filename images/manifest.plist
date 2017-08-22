@@ -16,12 +16,12 @@
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
-					<key>url</key>
-					<string>https://github.com/GeorgeFrancis/GeorgeFrancis.github.io/blob/master/images/image.57x57.png?raw=true</string>
+					<key>url<https://github.com/GeorgeFrancis/GeorgeFrancis.github.io/blob/master/images/image.57x57.png?raw=true</string>/key>
+					<string>
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>https://raw.githubusercontent.com/GeorgeFrancis/GeorgeFrancis.github.io/master/images/image.512x512.jpg</string>ring>
+					<string>full-size-image</string>https://github.com/GeorgeFrancis/GeorgeFrancis.github.io/blob/master/images/image.512x512.jpg</string>ring>
 					<key>url</key>
 					<string>
 				</dict>
